@@ -1,0 +1,5 @@
+../Core/Src/simple_filters.c:19:6:filter_median_init	8	static
+../Core/Src/simple_filters.c:24:9:filter_median	72	static
+../Core/Src/simple_filters.c:39:13:bubble_sort	24	static
+../Core/Src/simple_filters.c:55:13:swap	24	static
+../Core/Src/simple_filters.c:63:9:get_median	24	static

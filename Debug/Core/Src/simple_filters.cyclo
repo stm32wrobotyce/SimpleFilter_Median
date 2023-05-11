@@ -1,0 +1,5 @@
+simple_filters.c:19:6:filter_median_init	1
+simple_filters.c:24:9:filter_median	1
+simple_filters.c:39:13:bubble_sort	4
+simple_filters.c:55:13:swap	1
+simple_filters.c:63:9:get_median	2
